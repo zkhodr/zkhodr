@@ -16,7 +16,7 @@ Explore my work in product marketing, UX design, digital strategy, and technolog
 ### 🛍️ DealSnatchers — Digital Marketplace
 A digital marketplace developed using Next.js, TypeScript, and Supabase. The project brings together web development, marketplace UX, product strategy, and digital growth.
 
-**Website:**(https://dealsnatchers.ca/)
+**Website:**https://dealsnatchers.ca/
 
 ## 💡 Areas of Interest
 - Growth marketing and conversion optimization
